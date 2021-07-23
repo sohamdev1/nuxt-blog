@@ -1,4 +1,4 @@
-# mini-blog-nuxt
+# A nuxt project
 
 ## Features
 
