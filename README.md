@@ -2,7 +2,7 @@
 
 ## Features
 
-1) Login the user by username
+1) Login the user by username (Only usernames at https://jsonplaceholder.typicode.com/users are accepted)
 2) create new post after login
 3) create comments each post
 4) Display posts
