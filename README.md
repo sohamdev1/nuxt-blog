@@ -1,5 +1,13 @@
 # mini-blog-nuxt
 
+## Features
+
+1) Login the user by username
+2) create new post after login
+3) create comments each post
+4) Display posts
+5) Logout the user
+
 ## Build Setup
 
 ```bash
